@@ -65,6 +65,7 @@ while n >= 2 and n < 50:
 ### Problema 6:
 ````cpp
 # Implementar el algoritmo que muestre los números primos del 1 al 100. Nota: use funciones
+
 n : int = 2
 while (n <= 100):
     es_primo = True
